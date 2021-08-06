@@ -38,6 +38,9 @@ This project features a website. The objective is to create a website where cust
 •	Logout
 
 Tool: 
+
 Font end: HTML, CSS, Bootstrap, JavaScript
+
 Back end: PHP
+
 Database: MySQL
